@@ -6,7 +6,7 @@ This is a collections of files I need with some defaults.
 ## usage
 
 ```sh
-$ cp ~/code/101 <DEST>
+$ cp -R ~/code/101 <DEST>
 ```
 
 ### todo
