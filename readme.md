@@ -11,4 +11,5 @@ $ cp -R ~/code/101 <DEST>
 
 ### todo
 
+- [ ] this should ignore `.git` inside of `101` directory to be copied.
 - [ ] automate: make this a `npm` command or yeoman generator.
